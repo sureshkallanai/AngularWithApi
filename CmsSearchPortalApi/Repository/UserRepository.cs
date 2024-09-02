@@ -45,7 +45,7 @@ namespace JWTAuth.WebApi.Repository
                 user2.UserName = "Raja Vinayagam";
                 Lstlogin.Add(user2);
                 Login user3 = new Login();
-                user3.EmailID = "arun.raj@correla.com";
+                user3.EmailID = "arun.raj@gmail.com";
                 user3.Password = "password";
                 user3.UserID = 3;
                 user3.UserName = "Arun Raj";
