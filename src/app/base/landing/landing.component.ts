@@ -18,7 +18,8 @@ export class LandingComponent implements OnInit, OnDestroy{
   }
     constructor(private router: Router,private displayService: DisplayService) { }
    
-    ngOnInit() {         
+    ngOnInit() {     
+     // console.log("test");    
       this.displayService.setNavigationVisibility(false);        
     }
     ngOnDestroy(): void {

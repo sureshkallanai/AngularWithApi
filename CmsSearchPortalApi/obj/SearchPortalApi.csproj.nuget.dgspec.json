@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\users\\suresh\\source\\repos\\AngularWithWebAPI-main-V2\\AngularWithWebAPI-main\\CMSSearchPortalApi\\SearchPortalApi.csproj": {}
+    "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\SearchPortalApi.csproj": {}
   },
   "projects": {
-    "D:\\users\\suresh\\source\\repos\\AngularWithWebAPI-main-V2\\AngularWithWebAPI-main\\CMSSearchPortalApi\\SearchPortalApi.csproj": {
+    "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\SearchPortalApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\users\\suresh\\source\\repos\\AngularWithWebAPI-main-V2\\AngularWithWebAPI-main\\CMSSearchPortalApi\\SearchPortalApi.csproj",
+        "projectUniqueName": "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\SearchPortalApi.csproj",
         "projectName": "SearchPortalApi",
-        "projectPath": "D:\\users\\suresh\\source\\repos\\AngularWithWebAPI-main-V2\\AngularWithWebAPI-main\\CMSSearchPortalApi\\SearchPortalApi.csproj",
+        "projectPath": "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\SearchPortalApi.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\users\\suresh\\source\\repos\\AngularWithWebAPI-main-V2\\AngularWithWebAPI-main\\CMSSearchPortalApi\\obj\\",
+        "outputPath": "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

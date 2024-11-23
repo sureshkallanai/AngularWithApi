@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edQQaQm2V30iC2gEWV5UxmyI4HGl5z5cRuO50rBdfyNjhPMcKunyr45GvG/7AAhiLNmabptTVqpUFVJUnkJDXQ==",
+  "dgSpecHash": "jscqX5X2cdN2MKN5o+i+Phv/d/gQMLLsTuwn4PrzMcK3xh/H2xnbBkfVIIMKAppTuJmxG+ZcNgJLkiZDGoT4VA==",
   "success": true,
-  "projectFilePath": "D:\\users\\suresh\\source\\repos\\AngularWithWebAPI-main-V2\\AngularWithWebAPI-main\\CMSSearchPortalApi\\SearchPortalApi.csproj",
+  "projectFilePath": "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\SearchPortalApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.1\\microsoft.aspnetcore.authentication.jwtbearer.6.0.1.nupkg.sha512",
