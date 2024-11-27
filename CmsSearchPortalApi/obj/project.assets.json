@@ -1797,11 +1797,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\SearchPortalApi.csproj",
+      "projectUniqueName": "D:\\users\\suresh\\source\\repos\\Api\\CMSSearchPortalApi\\SearchPortalApi.csproj",
       "projectName": "SearchPortalApi",
-      "projectPath": "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\SearchPortalApi.csproj",
+      "projectPath": "D:\\users\\suresh\\source\\repos\\Api\\CMSSearchPortalApi\\SearchPortalApi.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\users\\suresh\\source\\repos\\AngularWithApi\\CMSSearchPortalApi\\obj\\",
+      "outputPath": "D:\\users\\suresh\\source\\repos\\Api\\CMSSearchPortalApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
